@@ -35,8 +35,7 @@
               "title": "Governor"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adcc99d447e8d6b5",
+  "active": "3414881c142b391b",
   "lastOpenFiles": [
+    "Mizo/sub topic/Governor.md",
     "Mizo/Our History And Calture.md",
     "Mizo/sub topic/Important Year Dates.md",
     "Mizo/sub topic/Geography.md",
@@ -226,7 +226,6 @@
     "Mizo/sub topic/Important Places.md",
     "Mizo/sub topic/Laentur.md",
     "Mizo/sub topic/Political party.md",
-    "Mizo/sub topic/Governor.md",
     "Mizo/sub topic/flash fact.md",
     "Mizo/sub topic/Mizo Literature & Awards.md",
     "Mizo/sub topic/Current Affairs Mizoram.md",
