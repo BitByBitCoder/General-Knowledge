@@ -2,7 +2,7 @@
 | Question                        | Answer                                                                                     |
 | ------------------------------- | ------------------------------------------------------------------------------------------ |
 | Highest peak                    | Phawngpui (Blue Mountain), Lunglei district                                                |
-| Eng Tlang Nge                   | Champhai district                                                                          |
+| Eng district nge                | Champhai district                                                                          |
 | Lianchhiari Lunglen Tlang       | Near Reiek, Mamit district                                                                 |
 | Tropic of Cancer passes through | Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram |
 | Latitude of Mizoram             | Around 21°58′ N – 24°35′ N; Tropic of Cancer (23°30′ N) passes through the state           |
