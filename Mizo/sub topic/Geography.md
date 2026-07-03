@@ -15,7 +15,7 @@
 | Peak                          | Location/District     | Rank                 |
 | ----------------------------- | --------------------- | -------------------- |
 | **Phawngpui (Blue Mountain)** | Siaha district        | Highest (2,157m)     |
-| Lengteng Tlang                | Champhai district     | 2nd highest          |
+| Lengteng Tlang                | Champhai district     | 2nd highest 2,141m   |
 | **Sur Tlang**                 | **Serchhip district** | 3rd highest          |
 | Hmuifang                      | Aizawl district       | —                    |
 | Reiek                         | Aizawl district       | Popular tourist hill |
