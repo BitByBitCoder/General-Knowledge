@@ -17,8 +17,7 @@
 | ----------------------------- | ------------------------------- | ------------------------- |
 | **Phawngpui (Blue Mountain)** | Lawngtlai district              | Highest (2,157m)          |
 | **Lengteng Tlang**            | Champhai district               | 2nd highest (2,141m)      |
-| **Mount Mawma**               | Siaha district                  | 3rd highest (2,050m)      |
-| **Sur Tlang**                 | Champhai district               | ~4th/5th highest (1,967m) |
+| **Sur Tlang**                 | Champhai district               | ~3th/5th highest (1,967m) |
 | **Hmuifang**                  | Aizawl district                 | Popular tourist hill      |
 | **Reiek**                     | Mamit district                  | Popular tourist hill      |
 River
@@ -67,3 +66,8 @@ Important Lakes
 | **Palak Dil (Palak Lake)** | Siaha district                | Largest lake in Mizoram                                                   |
 | **Rih Dil**                | Myanmar (near Mizoram border) | Sacred in Mizo tradition — believed to be where Mizo souls go after death |
 | **Tam Dil**                | Saitual district              | Natural lake — popular tourist spot                                       |
+
+
+
+
+
