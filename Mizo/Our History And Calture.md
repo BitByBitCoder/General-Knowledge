@@ -5,9 +5,7 @@
 | Districts               | **11**                                                      |     |
 | Border states           | **Assam, Manipur, Tripura**                                 |     |
 | Border countries        | **Myanmar, Bangladesh**                                     |     |
-| Highest peak            | **Phawngpui / Blue Mountain (Lunglei)**                     |     |
 | State bird              | **Mrs. Hume's Pheasant (Vavu)**                             |     |
-| Total area:             | 21,081 sq km                                                |     |
 | Mizoram                 | 23 state of india                                           |     |
 | Total population 2011   | 10,97,206                                                   |     |
 | **Meaning of Mizoram:** | Mi (people) + Zo (hills) + Ram (land) = Land of Hill People |     |
