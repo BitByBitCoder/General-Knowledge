@@ -5,7 +5,7 @@ History date
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Selesih ("Seven Thousand Houses") established                                   | 1740 and 1750 alliance of seven **Sailo clan** chiefs to defend against continuous raids by eastern enemies across the **Tiau River** |
 | **Foundation of Aizawl**                                                        | 25 February 1890                                                                                                                      |
-| — Welsh missionaries Arrive                                                     | **11 January 1894**                                                                                                                   |
+| Welsh missionaries Arrive                                                       | **11 January 1894**                                                                                                                   |
 | Lushai Hills declared an Excluded Area                                          | 1935                                                                                                                                  |
 | **Formation of Mizo Common People's Union (Mizo Union)**                        | 9 April 1946                                                                                                                          |
 | UMFO                                                                            | July 1947 as a splinter group from the Mizo Union                                                                                     |
