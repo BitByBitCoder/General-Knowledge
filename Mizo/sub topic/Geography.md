@@ -71,3 +71,29 @@ Important Lakes
 
 
 
+|           |                           |                        |
+| --------- | ------------------------- | ---------------------- |
+| **Sl No** | **Name of mountain**      | **Height (in metres)** |
+| 1         | Phawngpui (Blue Mountain) | 2157                   |
+| 2         | Lengteng                  | 2141                   |
+| 3         | Surtlang                  | 1967                   |
+| 4         | Lurhtlang                 | 1935                   |
+| 5         | Tan Tlang                 | 1837                   |
+| 6         | V.Partlang                | 1929                   |
+| 7         | Chalhfilh Tlang           | 1865                   |
+| 8         | Hrangturzotlang           | 1854                   |
+| 9         | Zopui Tlang               | 1850                   |
+| 10        | Tawizo                    | 1837                   |
+| 11        | Mawmrang                  | 1812                   |
+| 12        | Purun Tlang               | 1756                   |
+| 13        | Hmuifangtlang             | 1619                   |
+| 14        | Saireptlang               | 1555                   |
+| 15        | Sakawrhmutuaitlang        | 1535                   |
+| 16        | Reiek Tlang               | 1465                   |
+| 17        | Thorang Tlang             | 1387.2                 |
+| 18        | Buia Hmun Tlang           | 1383                   |
+| 19        | Laipui Tlang              | 1188                   |
+| 20        | South Hlimen Tlang        | 1179                   |
+| 21        | Head Post Office          | 1067.7                 |
+| 22        | Serkawn                   | 1222                   |
+| 23        | Circuit House (Lunglei)   |                        |
