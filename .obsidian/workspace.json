@@ -63,7 +63,8 @@
               "title": "Governor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,15 +234,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3414881c142b391b",
+  "active": "019ebcc08b12a79b",
   "lastOpenFiles": [
+    "Mizo/sub topic/Important Year Dates.md",
     "Mizo/Our History And Calture.md",
     "Mizo/sub topic/first of.md",
     "Mizo/sub topic/ADC.md",
     "Mizo/sub topic/Geography.md",
     "Mizo/sub topic/Traditional months.md",
     "Mizo/sub topic/Governor.md",
-    "Mizo/sub topic/Important Year Dates.md",
     "Mizo/glance.md",
     "Roadmap.md",
     "README.md",
