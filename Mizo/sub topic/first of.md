@@ -10,4 +10,4 @@
 | **Civil Services** | First Mizo IPS Officer        | Rokunga Chawngthu (1962).                                      |
 | **Civil Services** | First Mizo IAS Officer        | Jamchonga Nampui (cleared the exam in 1954).                   |
 | **Engineering**    | First Mizo IIT Graduate       | Pu Thanhnuna (graduated from IIT Madras in 1965).              |
-| **Awards**         | First Mizo Woman (Padma Shri) | Lalhmingthanga (recognized for social work).                   |
+| **Awards**         | First Mizo Woman (Padma Shri) | Nuchhungi Renthlei                                             |
