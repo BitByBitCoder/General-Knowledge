@@ -19,6 +19,7 @@
 | **Sur Tlang**                 | **Serchhip district** | 3rd highest          |
 | Hmuifang                      | Aizawl district       | —                    |
 | Reiek                         | Aizawl district       | Popular tourist hill |
+|                               |                       |                      |
 
 River
 
