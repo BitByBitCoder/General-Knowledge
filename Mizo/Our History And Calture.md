@@ -10,8 +10,7 @@
 | Total population 2011   | 10,97,206                                                   |     |
 | **Meaning of Mizoram:** | Mi (people) + Zo (hills) + Ram (land) = Land of Hill People |     |
 | **Official languages:** | Mizo and English                                            |     |
-| Literacy rate           | 91.33% 2 highest                                            |     |
-| Forest cover            | 84-89% of geographical area                                 |     |
+| Literacy rate           | 91.85% 2 highest                                            |     |
 | State motto             | Satyameva Jayate Truth alone triumphs                       |     |
 |                         |                                                             |     |
 

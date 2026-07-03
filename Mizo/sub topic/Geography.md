@@ -10,6 +10,7 @@
 | Second railway station          | Sairang                                                                                    |
 | Tuirini Hydro Electric Project  | 24 MW                                                                                      |
 | Total area:                     | 21,081 sq km                                                                               |
+| Forest cover                    | 84-89% of geographical area                                                                |
 
 | Peak                          | Location/District     | Rank                 |
 | ----------------------------- | --------------------- | -------------------- |
