@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 3901727
       }
+    },
+    {
+      "query": "path:Indian_Polity_Constitution  ",
+      "color": {
+        "a": 1,
+        "rgb": 14392090
+      }
     }
   ],
   "collapse-display": true,
