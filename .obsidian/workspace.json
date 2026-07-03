@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "aaa84c3bbf7f9aaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f93eb109e7ec032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3414881c142b391b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mizo/Our History And Calture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Our History And Calture"
+            }
+          },
+          {
+            "id": "adcc99d447e8d6b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8977e845f214a341",
+    "type": "split",
+    "children": [
+      {
+        "id": "c86bbfa10bee3d01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11fd1430e425f00f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "62ee75a3d2b5c822",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b82e444829cfd452",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed16cec6f4651fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b2dd6740e9dfe12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39faed22fc23fe30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "57759f6b1caeadaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "739d4c3a5512c48c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b28fd0e8699a1cc6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e8a1fe495f78a524",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e4f8a38187b21ce1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "adcc99d447e8d6b5",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.base",
+    "Mizo/glance.md",
+    "Mizo/Our History And Calture.md",
+    "Roadmap.md",
+    "Mizoram.md",
+    "Mizo/sub/Important Year Dates.md",
+    "Untitled.md",
+    "Mizo.md",
+    "Mizo/sub/fash extended.md",
+    "Mizo/sub/Christinaty.md",
+    "Mizo/sub/ADC.md",
+    "Mizo/sub/Scheme.md",
+    "Mizo/sub/Important Places.md",
+    "Mizo/sub/Laentur.md",
+    "Mizo/sub/Geography.md",
+    "Mizo/sub/Political party.md",
+    "Mizo/sub/Governor.md",
+    "Mizo/sub/flash fact.md",
+    "Mizo/sub/Mizo Literature & Awards.md",
+    "Mizo/sub/Current Affairs Mizoram.md",
+    "Untitled 1.md",
+    "Mizo/sub/Language and phrase.md",
+    "ask.md",
+    "Mizo/sub/Legislature & Governance.md",
+    "Mizo/sub/Mythology & Folklore.md",
+    "Mizo/sub/Culture and tradition.md",
+    "Mizo/sub",
+    "Mizo"
+  ]
+}
