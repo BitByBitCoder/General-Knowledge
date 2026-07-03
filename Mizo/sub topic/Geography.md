@@ -12,14 +12,14 @@
 | Total area mizoram:             | 21,081 sq km                                                                               |
 | Forest cover                    | 84-89% of geographical area                                                                |
 
-| Peak                          | Location/District     | Rank                 |
-| ----------------------------- | --------------------- | -------------------- |
-| **Phawngpui (Blue Mountain)** | Siaha district        | Highest (2,157m)     |
-| Lengteng Tlang                | Champhai district     | 2nd highest 2,141m   |
-| **Sur Tlang**                 | **Serchhip district** | 3rd highest          |
-| Hmuifang                      | Aizawl district       | —                    |
-| Reiek                         | Aizawl district       | Popular tourist hill |
-|                               |                       |                      |
+| Peak                          | Location/District  | Rank                 |
+| ----------------------------- | ------------------ | -------------------- |
+| **Phawngpui (Blue Mountain)** | Lawngtlai district | Highest (2,157m)     |
+| Lengteng Tlang                | Champhai district  | 2nd highest 2,141m   |
+| **Sur Tlang**                 | champhai district  | 3rd highest 1,967m   |
+| Hmuifang                      | Aizawl district    | —                    |
+| Reiek                         | Mamit district     | Popular tourist hill |
+|                               |                    |                      |
 
 River
 
