@@ -1,9 +1,9 @@
 
 | Question                        | Answer                                                                                     |
 | ------------------------------- | ------------------------------------------------------------------------------------------ |
-| Highest peak                    | Phawngpui (Blue Mountain), Lunglei district                                                |
+| Highest peak                    | Phawngpui (Blue Mountain), lawngtlai                                                       |
 | Eng district nge                | Champhai district                                                                          |
-| Lianchhiari Lunglen Tlang       | Near Reiek, Mamit district                                                                 |
+| Lianchhiari Lunglen Tlang       | This legendary cliff is located in Dungtlang village within the **Champhai** district.     |
 | Tropic of Cancer passes through | Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram |
 | Latitude of Mizoram             | Around 21°58′ N – 24°35′ N; Tropic of Cancer (23°30′ N) passes through the state           |
 | Assam Rifles HQ                 | Shillong, Meghalaya                                                                        |
