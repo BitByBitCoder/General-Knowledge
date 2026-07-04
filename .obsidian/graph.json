@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14392090
       }
+    },
+    {
+      "query": "path:Modern_Indian_History  ",
+      "color": {
+        "a": 1,
+        "rgb": 3064544
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7038634684679004,
-  "close": true
+  "scale": 0.21698149818433027,
+  "close": false
 }
