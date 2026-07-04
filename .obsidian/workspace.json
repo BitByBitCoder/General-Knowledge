@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subject.md",
+                "file": "Mizo/Our History And Calture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "subject"
+              "title": "Our History And Calture"
             }
           },
           {
@@ -235,11 +235,12 @@
   },
   "active": "3414881c142b391b",
   "lastOpenFiles": [
+    "Mizo/glance.md",
+    "subject.md",
     "Screenshot 2026-07-02 at 1.29.09 PM.png",
     "Untitled.base",
     "next.md",
     "Roadmap.md",
-    "subject.md",
     "Modern_Indian_History/08 — Firsts in Indian History.md",
     "Modern_Indian_History/07 — Post Independence Facts.md",
     "Modern_Indian_History/06 — Ancient & Medieval India.md",
