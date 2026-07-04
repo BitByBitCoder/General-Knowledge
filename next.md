@@ -47,13 +47,13 @@ What you should do = **study 5 topics in byhart format** exactly like we did for
 
 These 5 topics cover **481 of your 717 questions — 67% of GK**:
 
-|Topic|Time to build byhart|Questions covered|
-|---|---|---|
-|✅ Mizoram GK|Done|79 Qs|
-|✅ Indian Polity|Done|69 Qs|
-|❌ Modern Indian History|1 session with me|69 Qs|
-|❌ Geography India|1 session with me|61 Qs|
-|❌ National Symbols & Firsts|30 minutes with me|18 Qs|
+| Topic                       | Time to build byhart | Questions covered |
+| --------------------------- | -------------------- | ----------------- |
+| ✅ Mizoram GK                | Done                 | 79 Qs             |
+| ✅ Indian Polity             | Done                 | 69 Qs             |
+| ❌ Modern Indian History     | 1 session with me    | 69 Qs             |
+| ❌ Geography India           | 1 session with me    | 61 Qs             |
+| ❌ National Symbols & Firsts | 30 minutes with me   | 18 Qs             |
 
 **Total time: 3 more sessions. That's it.**
 
