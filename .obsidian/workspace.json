@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mizo/Our History And Calture.md",
+                "file": "Mizo/sub topic/Geography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Our History And Calture"
+              "title": "Geography"
             }
           },
           {
@@ -235,8 +235,8 @@
   },
   "active": "3414881c142b391b",
   "lastOpenFiles": [
-    "Mizo/sub topic/Important Year Dates.md",
     "Mizo/Our History And Calture.md",
+    "Mizo/sub topic/Important Year Dates.md",
     "Mizo/sub topic/Traditional months.md",
     "Mizo/sub topic/Governor.md",
     "Mizo/glance.md",
