@@ -12,11 +12,11 @@ Focus your study time on this "High-Yield" list. These are the names that appear
 
 ### 🏆 The Mizoram Padma Award "Cheat Sheet"
 
-|**Category**|**Awardee**|**Year**|**Field**|
-|---|---|---|---|
-|**First Padma Shri**|**Anselm Sawihlira**|1983|Civil Service|
-|**Only Padma Bhushan**|**Capt. L.Z. Sailo**|2007|Lit. & Education|
-|**Prominent Figure**|**Brig. T. Sailo**|1999|Social Work|
+| **Category**                    | **Awardee**          | **Year** | **Field**        |
+| ------------------------------- | -------------------- | -------- | ---------------- |
+| **First Padma Shri**            | **Anselm Sawihlira** | 1983     | Civil Service    |
+| **Only Padma Bhushan**          | **Capt. L.Z. Sailo** | 2007     | Lit. & Education |
+| **Prominent Figure Patma shri** | **Brig. T. Sailo**   | 1999     | Social Work      |
 
 ### 📅 Recent Padma Shri Winners (Must Know)
 
