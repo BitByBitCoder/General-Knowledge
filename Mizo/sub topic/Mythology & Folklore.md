@@ -1,4 +1,4 @@
-
+	
 
 Here is the corrected table for your Mizo folklore and mythology notes:
 
