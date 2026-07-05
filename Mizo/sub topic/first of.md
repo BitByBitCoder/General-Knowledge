@@ -11,4 +11,4 @@
 | **Civil Services** | First Mizo IAS Officer        | Jamchonga Nampui (cleared the exam in 1954).                                                 |
 | **Engineering**    | First Mizo IIT Graduate       | Pu Thanhnuna (graduated from IIT Madras in 1965).                                            |
 | **Awards**         | First Mizo Woman (Padma Shri) | Nuchhungi Renthlei                                                                           |
-|                    |                               | Padma Shri was Shri Anselm Sawihlira in 1983.                                                |
+| Awards             | Patma shri                    |  Shri Anselm Sawihlira in 1983.                                                              |
