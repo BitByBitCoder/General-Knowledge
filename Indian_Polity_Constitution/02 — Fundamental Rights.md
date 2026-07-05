@@ -5,17 +5,17 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Part of Constitution with Fundamental Rights | **Part III** |
-| Fundamental Rights inspired by | **United States Constitution** |
-| Right NOT a Fundamental Right | **Right to Property** |
-| Right to vote is | **Constitutional Right** (NOT Fundamental Right) |
-| Fundamental Right enjoyed by foreigners | **Right to Equality (Article 14)** |
-| Articles NOT suspended during Emergency | **Articles 20 and 21** |
-| Article 21A | **Right to Education (Free & compulsory, age 6–14)** |
-| Which article: free & compulsory education 6–14 yrs | **Article 21A** |
-| Which part has secular character of polity | **Preamble** |
+| Question                                            | Answer                                               |
+| --------------------------------------------------- | ---------------------------------------------------- |
+| Part of Constitution with Fundamental Rights        | **Part III**                                         |
+| Fundamental Rights inspired by                      | **United States Constitution**                       |
+| Right NOT a Fundamental Right                       | **Right to Property**                                |
+| Right to vote is                                    | **Constitutional Right** (NOT Fundamental Right)     |
+| Fundamental Right enjoyed by foreigners             | **Right to Equality (Article 14)**                   |
+| Articles NOT suspended during Emergency             | **Articles 20 and 21**                               |
+| Article 21A                                         | **Right to Education (Free & compulsory, age 6–14)** |
+| Which article: free & compulsory education 6–14 yrs | **Article 21A**                                      |
+| Which part has secular character of polity          | **Preamble**                                         |
 
 ## All 6 Fundamental Rights
 
