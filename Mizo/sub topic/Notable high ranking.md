@@ -2,17 +2,17 @@ While there are many distinguished civil servants from Mizoram, it is not possib
 
 ### 📋 Notable High-Ranking Mizo Civil Servants
 
-|**Name**|**Service / Rank**|**Notable Background / Achievement**|
-|---|---|---|
-|**Lalhmingliana Tochhawng**|IAS|The first Mizo to pass the IAS examination (1951).|
-|**Rokunga Chawngthu**|IPS|The first Mizo to join the Indian Police Service (1962).|
-|**K.C. Lalvunga**|IFS|The first Mizo to join the Indian Foreign Service (1962).|
-|**Lalduhoma**|IPS (Former)|A former IPS officer who later entered politics; current Chief Minister of Mizoram.|
-|**Lalziki Sailo**|Gazette Officer|The first Mizo female Gazette Officer (1953).|
-|**Lalkhama**|IAS|The first Mizo to serve as Chief Secretary of Mizoram.|
-|**P. Rohmingthanga**|IAS|The first Mizo Deputy Commissioner (DC) of the Aizawl District.|
-|**Vanlalhuma**|IFS|An experienced IFS officer (1990 batch) currently serving in central services.|
-|**Esther Lalruatkimi**|IRS (Income Tax)|Notable Mizo officer in the Indian Revenue Service (1991 batch).|
+| **Name**                    | **Service / Rank** | **Notable Background / Achievement**                                                |
+| --------------------------- | ------------------ | ----------------------------------------------------------------------------------- |
+| **Lalhmingliana Tochhawng** | IAS                | The first Mizo to pass the IAS examination (1951).                                  |
+| **Rokunga Chawngthu**       | IPS                | The first Mizo to join the Indian Police Service (1962).                            |
+| **K.C. Lalvunga**           | IFS                | The first Mizo to join the Indian Foreign Service (1962).                           |
+| **Lalduhoma**               | IPS (Former)       | A former IPS officer who later entered politics; current Chief Minister of Mizoram. |
+| **Lalziki Sailo**           | Gazette Officer    | The first Mizo female Gazette Officer (1953).                                       |
+| **Lalkhama**                | IAS                | The first Mizo to serve as Chief Secretary of Mizoram.                              |
+| **P. Rohmingthanga**        | IAS                | The first Mizo Deputy Commissioner (DC) of the Aizawl District.                     |
+| **Vanlalhuma**              | IFS                | An experienced IFS officer (1990 batch) currently serving in central services.      |
+| **Esther Lalruatkimi**      | IRS (Income Tax)   | Notable Mizo officer in the Indian Revenue Service (1991 batch).                    |
 
 ### 💡 Context for Your Study
 
