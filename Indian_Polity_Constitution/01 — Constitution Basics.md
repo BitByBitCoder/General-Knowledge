@@ -32,7 +32,7 @@
 | Constitution adopted | **26 November 1949** |
 | Constitution enforced (Republic Day) | **26 January 1950** |
 | First Amendment | **1951** |
-
+magna carta fact zawh chian phawt tur
 ## Magna Carta Facts
 
 | Question | Answer |
