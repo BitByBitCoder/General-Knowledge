@@ -13,7 +13,7 @@ Here is the corrected table for your Mizo folklore and mythology notes:
 | **Love story featuring PHUNTIHA**                | _Zawlpala and Tualvungi_ (Phuntiha is the wealthy antagonist).                                                  |
 
 ### Famous Mizo Love Stories (Folktale couples)
-
+a
 - **Sawngkhara and Chawngvungi**
 - **Lianchhiari and Chawngfianga**
 - **Tlingi and Ngama**
