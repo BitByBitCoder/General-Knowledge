@@ -63,14 +63,17 @@
 [[Traditional months]]
 [[Laentur]]
 
-[[Christinaty]]
-[[Scheme]]
-[[Political party]]
+
 [[Mythology & Folklore]]
+[[Political party]]
 [[Mizo Literature & Awards]]
 [[Culture and tradition]]
+
 [[Legislature & Governance]]
 [[Language and phrase]]
+
 [[Important Places]]
 
+[[Scheme]]
+[[Christinaty]]
 [[General Awearness]]
