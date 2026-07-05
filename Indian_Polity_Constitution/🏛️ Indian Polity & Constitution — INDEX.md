@@ -41,32 +41,32 @@
 
 ## ⚡ Flash Facts — Master These First
 
-| Question | Answer |
-|----------|--------|
-| Constitution adopted | **26 November 1949** |
-| Constitution came into force | **26 January 1950** |
-| Original articles | **395** |
-| Original parts | **22** |
-| Original schedules | **8** |
-| Current schedules | **12** |
-| Framed by | **Constituent Assembly** |
-| President resigns to | **Vice President** |
-| PM resigns to | **President** |
-| Lok Sabha elected seats | **543** |
-| Rajya Sabha total | **250 (238+12)** |
-| Min age Rajya Sabha | **30 years** |
-| Min age Lok Sabha | **25 years** |
-| Rajya Sabha term | **6 years** |
-| Article 21A | **Right to Education** |
-| Article 324 | **Election Commission** |
-| Article 356 | **President's Rule** |
-| Article 368 | **Amendment Procedure** |
-| Attorney General — courts | **Any court in India** |
-| Supreme Commander of Defence | **President** |
-| NITI Aayog ex-officio head | **Prime Minister** |
-| Rajya Sabha ex-officio Chairman | **Vice President** |
-| Articles NOT suspended in Emergency | **Articles 20 and 21** |
-| Speaker's vote in deadlock | **Casting Vote** |
+| Question                            | Answer                   |
+| ----------------------------------- | ------------------------ |
+| Constitution adopted                | **26 November 1949**     |
+| Constitution came into force        | **26 January 1950**      |
+| Original articles                   | **395**                  |
+| Original parts                      | **22**                   |
+| Original schedules                  | **8**                    |
+| Current schedules                   | **12**                   |
+| Framed by                           | **Constituent Assembly** |
+| President resigns to                | **Vice President**       |
+| PM resigns to                       | **President**            |
+| Lok Sabha elected seats             | **543**                  |
+| Rajya Sabha total                   | **250 (238+12)**         |
+| Min age Rajya Sabha                 | **30 years**             |
+| Min age Lok Sabha                   | **25 years**             |
+| Rajya Sabha term                    | **6 years**              |
+| Article 21A                         | **Right to Education**   |
+| Article 324                         | **Election Commission**  |
+| Article 356                         | **President's Rule**     |
+| Article 368                         | **Amendment Procedure**  |
+| Attorney General — courts           | **Any court in India**   |
+| Supreme Commander of Defence        | **President**            |
+| NITI Aayog ex-officio head          | **Prime Minister**       |
+| Rajya Sabha ex-officio Chairman     | **Vice President**       |
+| Articles NOT suspended in Emergency | **Articles 20 and 21**   |
+| Speaker's vote in deadlock          | **Casting Vote**         |
 
 ---
 
