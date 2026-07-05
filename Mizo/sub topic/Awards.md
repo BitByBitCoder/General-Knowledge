@@ -2,6 +2,45 @@ The following table lists prominent Mizo individuals who have received prestigio
 
 These awards recognize distinguished service in various fields, including Literature & Education, Social Work, and Civil Service.
 
+
+
+For competitive exams like the LDC, you do not need to memorize every single awardee. Examiners focus on "firsts," "onlys," and the most recent winners.
+
+Focus your study time on this "High-Yield" list. These are the names that appear most frequently in exam questions.
+
+### 🏆 The Mizoram Padma Award "Cheat Sheet"
+
+|**Category**|**Awardee**|**Year**|**Field**|
+|---|---|---|---|
+|**First Padma Shri**|**Anselm Sawihlira**|1983|Civil Service|
+|**Only Padma Bhushan**|**Capt. L.Z. Sailo**|2007|Lit. & Education|
+|**Prominent Figure**|**Brig. T. Sailo**|1999|Social Work|
+
+### 📅 Recent Padma Shri Winners (Must Know)
+
+Exams love recent current affairs. Memorize these last 5 years:
+
+- **2025: Renthlei Lalrawna** (Literature & Education)
+    
+- **2024: Sangthankima** (Social Work)
+    
+- **2023: K.C. Runremsangi** (Art)
+    
+- **2022: V.L. Nghaka** (Literature & Education)
+    
+- **2021: Sangkhumi Bualchhuak** (Social Work)
+    
+
+### 💡 Exam "Gotchas" to Remember
+
+- **The "First" Trap:** Many students mistakenly guess that the first Padma Shri was for Literature because so many Mizo winners are in that field. Remember: **Anselm Sawihlira (1983)** was awarded for **Civil Service**.
+    
+- **The "Only" Distinction:** Capt. L.Z. Sailo is the **only** person from Mizoram to have ever received the **Padma Bhushan**.
+    
+- **Field Dominance:** If you get a question asking for the most common field of contribution for Mizo Padma awardees, the answer is **Literature & Education**.
+    
+
+If you memorize these specific 8 individuals and the categories above, you will be well-prepared for the awards section of your exam.
 ### 🏆 Padma Award Recipients from Mizoram
 
 |**Year**|**Name**|**Award**|**Discipline**|
