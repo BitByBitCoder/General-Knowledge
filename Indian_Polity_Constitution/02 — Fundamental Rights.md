@@ -18,26 +18,26 @@
 
 ## All 6 Fundamental Rights
 
-| Right                                | Articles | Key Point                                      |
-| ------------------------------------ | -------- | ---------------------------------------------- |
-| **Right to Equality**                | 14–18    | Available to foreigners too                    |
-| **Right to Freedom**                 | 19–22    | Article 19 = Freedom of Speech                 |
-| **Right against Exploitation**       | 23–24    | Child labour banned                            |
-| **Right to Freedom of Religion**     | 25–28    |                                                |
-| **Cultural & Educational Rights**    | 29–30    | Minorities                                     |
-| **Right to Constitutional Remedies** | 32       | Dr. Ambedkar called it "Heart of Constitution" |
+|**Fundamental Right**|**Article Bracket**|**Core Concept to Remember**|
+|---|---|---|
+|**1. Right to Equality**|Articles 14–18|Rule of law; includes Article 14 (available to foreigners).|
+|**2. Right to Freedom**|Articles 19–22|Personal liberties; includes Protection of Life (Art 21).|
+|**3. Right against Exploitation**|Articles 23–24|Anti-trafficking (23) and Child Labor ban (24).|
+|**4. Right to Freedom of Religion**|Articles 25–28|Freedom of conscience and free practice of religion.|
+|**5. Cultural & Educational Rights**|Articles 29–30|Protection of script, culture, and educational choices for **Minorities**.|
+|**6. Right to Constitutional Remedies**|Article 32|**"Heart and Soul"**; allows SC to issue writs to protect rights.|
 
 ## Key Articles in Fundamental Rights
 
-| Article | What it says |
-|---------|-------------|
-| Article 14 | Right to Equality — equal protection of laws |
-| Article 19 | Freedom of Speech, Assembly, Movement |
-| Article 20 | Protection against arbitrary conviction — **cannot be suspended in Emergency** |
-| Article 21 | Right to Life and Personal Liberty — **cannot be suspended in Emergency** |
-| Article 21A | Right to Education (6–14 years) |
-| Article 22 | Protection against arbitrary arrest |
-| Article 32 | Right to Constitutional Remedies |
+| Article     | What it says                                                                   |
+| ----------- | ------------------------------------------------------------------------------ |
+| Article 14  | Right to Equality — equal protection of laws                                   |
+| Article 19  | Freedom of Speech, Assembly, Movement                                          |
+| Article 20  | Protection against arbitrary conviction — **cannot be suspended in Emergency** |
+| Article 21  | Right to Life and Personal Liberty — **cannot be suspended in Emergency**      |
+| Article 21A | Right to Education (6–14 years)                                                |
+| Article 22  | Protection against arbitrary arrest                                            |
+| Article 32  | Right to Constitutional Remedies                                               |
 
 ## What is NOT a Fundamental Right ⚠️
 
