@@ -65,6 +65,7 @@
 
 
 [[Mythology & Folklore]]
+//he ta tang hian start leh tur
 [[Political party]]
 [[Mizo Literature & Awards]]
 [[Culture and tradition]]
