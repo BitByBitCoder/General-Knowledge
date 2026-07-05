@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mizo/sub topic/Mizo Awardees.md",
+                "file": "Mizo/sub topic/ADC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mizo Awardees"
+              "title": "ADC"
             }
           },
           {
@@ -321,8 +321,8 @@
   "active": "d2a049728a542496",
   "lastOpenFiles": [
     "Mizo/Our History And Calture.md",
-    "Mic/Awards.md",
     "Mizo/sub topic/Mizo Awardees.md",
+    "Mic/Awards.md",
     "Mic",
     "Mizo/sub topic/Scheme.md",
     "Mizo/sub topic/Laentur.md",
