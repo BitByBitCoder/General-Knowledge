@@ -9,25 +9,25 @@
 
 ## National Symbols — Complete Table
 
-| Symbol | Name | Key Fact |
-|--------|------|---------|
-| **National Bird** | **Peacock** | Scientific name: Pavo cristatus |
-| **National Animal** | **Tiger** | Project Tiger launched 1973 |
-| **National Flower** | **Lotus** | Nelumbo nucifera |
-| **National Tree** | **Banyan** | Ficus benghalensis |
-| **National Fruit** | **Mango** | Mangifera indica |
-| **National River** | **Ganga** | Also national river |
-| **National Anthem** | **Jana Gana Mana** | Written by **Rabindranath Tagore** — adopted 1950 |
-| **National Song** | **Vande Mataram** | Written by **Bankim Chandra Chatterjee** |
-| **National Sport** | **Hockey** | Unofficial — no official declaration |
-| **National Emblem** | **Lion Capital of Ashoka** | From Sarnath pillar — adopted 26 Jan 1950 |
-| **National Currency** | **Indian Rupee (₹)** | Symbol designed by **D. Udaya Kumar (2010)** |
-| **National Aquatic Animal** | **River Dolphin (Gangetic)** | — |
-| **National Heritage Animal** | **Elephant** | — |
-| **National Reptile** | **King Cobra** | — |
-| **National Butterfly** | **Orange Oakleaf** | — |
-| **National Calendar** | **Saka Calendar** | Official civil calendar |
-| **National Pledge** | Written by **Pydimarri Venkata Subba Rao** | — |
+| Symbol                       | Name                                       | Key Fact                                          |
+| ---------------------------- | ------------------------------------------ | ------------------------------------------------- |
+| **National Bird**            | **Peacock**                                | Scientific name: Pavo cristatus                   |
+| **National Animal**          | **Tiger**                                  | Project Tiger launched 1973                       |
+| **National Flower**          | **Lotus**                                  | Nelumbo nucifera                                  |
+| **National Tree**            | **Banyan**                                 | Ficus benghalensis                                |
+| **National Fruit**           | **Mango**                                  | Mangifera indica                                  |
+| **National River**           | **Ganga**                                  | Also national river                               |
+| **National Anthem**          | **Jana Gana Mana**                         | Written by **Rabindranath Tagore** — adopted 1950 |
+| **National Song**            | **Vande Mataram**                          | Written by **Bankim Chandra Chatterjee**          |
+| **National Sport**           | **Hockey**                                 | Unofficial — no official declaration              |
+| **National Emblem**          | **Lion Capital of Ashoka**                 | From Sarnath pillar — adopted 26 Jan 1950         |
+| **National Currency**        | **Indian Rupee (₹)**                       | Symbol designed by **D. Udaya Kumar (2010)**      |
+| **National Aquatic Animal**  | **River Dolphin (Gangetic)**               | —                                                 |
+| **National Heritage Animal** | **Elephant**                               | —                                                 |
+| **National Reptile**         | **King Cobra**                             | —                                                 |
+| **National Butterfly**       | **Orange Oakleaf**                         | —                                                 |
+| **National Calendar**        | **Saka Calendar**                          | Official civil calendar                           |
+| **National Pledge**          | Written by **Pydimarri Venkata Subba Rao** | —                                                 |
 
 ---
 
