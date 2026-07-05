@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mizo/sub topic/Awards.md",
+                "file": "Mizo/sub topic/Mizo Awardees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Awards"
+              "title": "Mizo Awardees"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mizo/sub topic/Awards.md",
+                "file": "Mizo/sub topic/Mizo Awardees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Awards"
+              "title": "Mizo Awardees"
             }
           },
           {
@@ -308,7 +308,7 @@
     "Mic/Awards.md",
     "Mizo/Our History And Calture.md",
     "Mic",
-    "Mizo/sub topic/Awards.md",
+    "Mizo/sub topic/Mizo Awardees.md",
     "Mizo/sub topic/Scheme.md",
     "Mizo/sub topic/Laentur.md",
     "Mizo/sub topic/first of.md",

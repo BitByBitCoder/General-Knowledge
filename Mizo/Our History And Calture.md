@@ -56,7 +56,7 @@
 [[Important Year Dates]]
 
 [[Geography]]
-[Awards](Mizo/sub%20topic/Awards.md)
+[Mizo Awardees](Mizo%20Awardees.md)
 [[ADC]]
 [[first of]]
 

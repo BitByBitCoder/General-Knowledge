@@ -1,3 +1,5 @@
+
+[Awards](Awards.md)
 The following table lists prominent Mizo individuals who have received prestigious national-level awards, specifically the **Padma Shri** (the fourth-highest civilian honor) and **Padma Bhushan** (the third-highest civilian honor) from the Government of India.
 
 These awards recognize distinguished service in various fields, including Literature & Education, Social Work, and Civil Service.
