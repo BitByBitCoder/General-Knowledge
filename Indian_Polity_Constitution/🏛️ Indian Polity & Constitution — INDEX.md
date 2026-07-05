@@ -1,8 +1,9 @@
 # 🏛️ Indian Polity & Constitution — INDEX
 > **Source:** 95 real questions extracted from your LDC exam papers
 > **Strategy:** Study sub-topics in order below — Articles and Parliament first (most repeated)
+> 
 
----
+Its the blueprint for everyting run---
 
 ## 📊 Overview
 
