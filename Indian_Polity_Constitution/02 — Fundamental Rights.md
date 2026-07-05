@@ -38,8 +38,9 @@
 | Article 21A | Right to Education (6–14 years)                                                |
 | Article 22  | Protection against arbitrary arrest                                            |
 | Article 32  | Right to Constitutional Remedies                                               |
+|             |                                                                                |
+explain more
 
-## What is NOT a Fundamental Right ⚠️
 |**Article**|**High-Yield Exam Keyword**|**Why it Matters**|
 |---|---|---|
 |**Article 14**|Equal Protection of Laws|Applies to everyone (citizens + foreigners).|
@@ -49,6 +50,7 @@
 |**Article 21A**|Right to Education|Added by **86th Amendment Act, 2002**. Free & compulsory for ages 6–14.|
 |**Article 22**|Protection against Arrest|Must see a magistrate within 24 hours of arrest.|
 |**Article 32**|Constitutional Remedies|**"Heart and Soul"** — allows the Supreme Court to issue 5 types of Writs.|
+## What is NOT a Fundamental Right ⚠️
 
 | Right | Status |
 |-------|--------|
