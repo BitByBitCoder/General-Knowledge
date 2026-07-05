@@ -18,14 +18,14 @@
 
 ## All 6 Fundamental Rights
 
-|**Fundamental Right**|**Article Bracket**|**Core Concept to Remember**|
-|---|---|---|
-|**1. Right to Equality**|Articles 14–18|Rule of law; includes Article 14 (available to foreigners).|
-|**2. Right to Freedom**|Articles 19–22|Personal liberties; includes Protection of Life (Art 21).|
-|**3. Right against Exploitation**|Articles 23–24|Anti-trafficking (23) and Child Labor ban (24).|
-|**4. Right to Freedom of Religion**|Articles 25–28|Freedom of conscience and free practice of religion.|
-|**5. Cultural & Educational Rights**|Articles 29–30|Protection of script, culture, and educational choices for **Minorities**.|
-|**6. Right to Constitutional Remedies**|Article 32|**"Heart and Soul"**; allows SC to issue writs to protect rights.|
+| **Fundamental Right**                   | **Article Bracket** | **Core Concept to Remember**                                               |
+| --------------------------------------- | ------------------- | -------------------------------------------------------------------------- |
+| **1. Right to Equality**                | Articles 14–18      | Rule of law; includes Article 14 (available to foreigners).                |
+| **2. Right to Freedom**                 | Articles 19–22      | Personal liberties; includes Protection of Life (Art 21).                  |
+| **3. Right against Exploitation**       | Articles 23–24      | Anti-trafficking (23) and Child Labor ban (24).                            |
+| **4. Right to Freedom of Religion**     | Articles 25–28      | Freedom of conscience and free practice of religion.                       |
+| **5. Cultural & Educational Rights**    | Articles 29–30      | Protection of script, culture, and educational choices for **Minorities**. |
+| **6. Right to Constitutional Remedies** | Article 32          | **"Heart and Soul"**; allows SC to issue writs to protect rights.          |
 
 ## Key Articles in Fundamental Rights
 
@@ -40,6 +40,15 @@
 | Article 32  | Right to Constitutional Remedies                                               |
 
 ## What is NOT a Fundamental Right ⚠️
+|**Article**|**High-Yield Exam Keyword**|**Why it Matters**|
+|---|---|---|
+|**Article 14**|Equal Protection of Laws|Applies to everyone (citizens + foreigners).|
+|**Article 19**|6 Democratic Freedoms|Suspended automatically during War/External Emergency.|
+|**Article 20**|Protection in Conviction|**Cannot** be suspended during any Emergency.|
+|**Article 21**|Right to Life & Personal Liberty|**Cannot** be suspended during any Emergency. Includes right to privacy, clean air, etc.|
+|**Article 21A**|Right to Education|Added by **86th Amendment Act, 2002**. Free & compulsory for ages 6–14.|
+|**Article 22**|Protection against Arrest|Must see a magistrate within 24 hours of arrest.|
+|**Article 32**|Constitutional Remedies|**"Heart and Soul"** — allows the Supreme Court to issue 5 types of Writs.|
 
 | Right | Status |
 |-------|--------|
