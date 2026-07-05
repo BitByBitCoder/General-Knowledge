@@ -1,19 +1,21 @@
-| Name                   | Field              | Key Fact                                                                                                                                                                  |
-| ---------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Laldenga**           | Politics           | MNF president — led insurgency — signed 1986 Peace Accord — CM                                                                                                            |
-| **Brig. T. Sailo**     | Politics/Military  | [Ati Vishisht Seva Medal](https://en.wikipedia.org/wiki/Ati_Vishisht_Seva_Medal "Ati Vishisht Seva Medal") and Padma Shri for his military service and humanitarian works |
-| **Lal Thanhawla**      | Politics           | Longest serving CM — 21+ years — INC                                                                                                                                      |
-| **Zoramthanga**        | Politics           | CM twice (MNF)                                                                                                                                                            |
-| **Lalduhoma**          | Politics           | Current CM — ZPM — former IPS officer                                                                                                                                     |
-| **Rev. Liangkhaia**    | Literature         | Author of Mizo Chanchin                                                                                                                                                   |
-| **James Dokhuma**      | Literature         | Mizo historian and writer                                                                                                                                                 |
-| **B. Lalthangliana**   | Literature         | Mizo Award 2025 recipient                                                                                                                                                 |
-| **Sangthankima**       | Literature/Culture | First awardee of Mizo Award                                                                                                                                               |
-| **Malsawmkima Ralte**  | Sports             | Commonwealth Games gold — weightlifting (Note: verify — Jeremy Lalrinnunga also from Mizoram)                                                                             |
-| **Jeremy Lalrinnunga** | Sports             | Commonwealth Games 2022 gold — weightlifting                                                                                                                              |
-| **Esther Hnamte**      | Child prodigy      | PM-Rashtriya Bal Puraskar Dec 2025 (Lunglei)                                                                                                                              |
-| **S.T. Rualyapa**      | Politics           | Recently passed away                                                                                                                                                      |
-| **Swaraj Kaushal**     | Governance         | First Governor of Mizoram after Statehood                                                                                                                                 |
+### Prominent Figures of Mizoram: Key Facts
+
+|**Name**|**Field**|**Key Fact**|
+|---|---|---|
+|**Laldenga**|Politics|MNF president, led insurgency, signed 1986 Peace Accord, former CM|
+|**Brig. T. Sailo**|Politics/Military|AVSM and Padma Shri recipient, former CM (Mizoram People's Conference)|
+|**Lal Thanhawla**|Politics|Longest-serving CM (over 21 years), INC|
+|**Zoramthanga**|Politics|CM three times (1998–2003, 2003–2008, 2018–2023), MNF|
+|**Lalduhoma**|Politics|Current CM (ZPM), former IPS officer|
+|**Rev. Liangkhaia**|Literature|Renowned author of _Mizo Chanchin_|
+|**James Dokhuma**|Literature|Mizo historian, writer, Padma Shri recipient|
+|**B. Lalthangliana**|Literature|Mizo Award 2025 recipient|
+|**Sangthankima**|Social Work|Founder of Thutak Nunpuitu Team (TNT), Padma Shri 2024|
+|**Jeremy Lalrinnunga**|Sports|Commonwealth Games 2022 Gold (Weightlifting)|
+|**Esther Hnamte**|Art & Culture|Child prodigy, PM-Rashtriya Bal Puraskar recipient (Dec 2025)|
+|**S.T. Rualyapa**|Politics|Former MLA (Sangau Constituency)|
+|**Hiteswar Saikia**|Governance|First Governor of Mizoram after Statehood (1987)|
+|**Swaraj Kaushal**|Governance|First Advocate General of Mizoram, Governor (1990–1993)|
 The historic [Mizoram Peace Accord](https://en.wikipedia.org/wiki/Mizoram_Peace_Accord) was signed on June 30, 1986, to officially end the two decades of insurgency in the region. It was signed by three primary figures: [[1]
 
 - **Pu Laldenga**: President of the Mizo National Front (MNF).
