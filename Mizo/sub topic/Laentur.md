@@ -14,3 +14,8 @@
 | **Esther Hnamte**      | Child prodigy      | PM-Rashtriya Bal Puraskar Dec 2025 (Lunglei)                                                  |
 | **S.T. Rualyapa**      | Politics           | Recently passed away                                                                          |
 | **Swaraj Kaushal**     | Governance         | First Governor of Mizoram after Statehood                                                     |
+The historic [Mizoram Peace Accord](https://en.wikipedia.org/wiki/Mizoram_Peace_Accord) was signed on June 30, 1986, to officially end the two decades of insurgency in the region. It was signed by three primary figures: [[1]
+
+- **Pu Laldenga**: President of the Mizo National Front (MNF).
+- **Shri R.D. Pradhan**: Union Home Secretary, representing the Government of India.
+- **Pu Lalkhama**: Chief Secretary, representing the Government of Mizoram. [[1]
