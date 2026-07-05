@@ -56,7 +56,7 @@
 [[Important Year Dates]]
 
 [[Geography]]
-
+[Awards](Awards.md)
 [[ADC]]
 [[first of]]
 
